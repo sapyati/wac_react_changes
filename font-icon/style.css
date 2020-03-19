@@ -1,0 +1,86 @@
+@font-face {
+  font-family: 'mx-icon';
+  src:  url('fonts/mx-icon.eot?kzbr5r');
+  src:  url('fonts/mx-icon.eot?kzbr5r#iefix') format('embedded-opentype'),
+    url('fonts/mx-icon.ttf?kzbr5r') format('truetype'),
+    url('fonts/mx-icon.woff?kzbr5r') format('woff'),
+    url('fonts/mx-icon.svg?kzbr5r#mx-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+/* [class^="mx-"], [class*=" mx-"] {
+  font-family: 'mx-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+.mx-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'mx-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 1.8rem;
+}
+
+.mx-filter:before {
+  content: "\e90c";
+}
+.mx-not-accessible:before {
+  content: "\e90d";
+}
+.mx-person-remove:before {
+  content: "\e90e";
+}
+.mx-unidentified-Person:before {
+  content: "\e909";
+}
+.mx-person:before {
+  content: "\e90a";
+}
+.mx-people-group:before {
+  content: "\e90b";
+}
+.mx-mail_in:before {
+  content: "\e900";
+}
+.mx-mail_out:before {
+  content: "\e901";
+}
+.mx-mail:before {
+  content: "\e902";
+}
+.mx-phone_in:before {
+  content: "\e903";
+}
+.mx-phone_out:before {
+  content: "\e904";
+}
+.mx-sms_in:before {
+  content: "\e905";
+}
+.mx-sms_out:before {
+  content: "\e906";
+}
+.mx-webchat_in:before {
+  content: "\e907";
+}
+.mx-webchat_out:before {
+  content: "\e908";
+}
