@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="152px" height="36px" viewBox="0 0 152 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="17.4511721%" y1="33.1798729%" x2="80.994066%" y2="75.2733687%" id="linearGradient-1">
+            <stop stop-color="#706AED" offset="0%"></stop>
+            <stop stop-color="#9437C8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Community-Outreach---Site-Contact-Info" transform="translate(-316.000000, -294.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="User-Card-2" transform="translate(90.000000, 164.500000)">
+                <g id="User-Card" transform="translate(226.000000, 130.000000)">
+                    <g id="Surface">
+                        <path d="M62.960151,-111.97509 C76.4964806,-111.510956 82.9523722,-109.692774 96.5197995,-97.4628093 C106.826628,-88.17184 109.088471,-84.1166943 117.769924,-80.2294763 C124.040266,-77.4218683 156.123808,-71.8071707 164.286966,-45.7628103 C172.954425,-18.10966 163.939449,6.5353019 142.518545,17.5988425 C118.93609,29.7787922 100.392505,19.4089904 89.3932332,14.748216 C74.1035092,8.26951941 67.8769635,5.48264327 41.969174,18.5058601 C17.7388487,30.6858097 -9.08295528,23.5592434 -24.7614011,3.86400571 C-39.5595216,-14.7251889 -45.0005901,-49.2011842 -27.8711755,-70.3818574 C-13.4451913,-88.2197824 3.09699435,-82.8209549 16.7022572,-89.6883733 C27.4498966,-95.1133747 40.2847129,-112.752533 62.960151,-111.97509 Z" id="Path" transform="translate(64.527833, -43.750000) rotate(-14.000000) translate(-64.527833, 43.750000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
